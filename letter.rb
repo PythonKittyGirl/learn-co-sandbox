@@ -4,11 +4,11 @@ def thank_you
   user_answer = gets.chomp
   
 if user_answer == "Seamus"
-  puts "Hey Seamus! Thank you so much for teaching me (and everyone else) coding! I learned a lot and it's really REALLY fun when I read my error messages without any help but I couldn't have done that without help. Thank you so much for giving time to teach us coding. Thank you!!
+  puts "Hey Seamus! Thank you so much for teaching me (and everyone else) coding! I learned a lot and it's really REALLY fun when I read my error messages without any help but I couldn't have done that without help. Not to mention getting that menu bar! Thank you so much for giving time to teach us coding. Thank you!!
   Isabel Ung".green
  
 elsif user_answer == "Grace"
-  puts "Hey Grace! Thank you so much for giving your time to teach me (and the other girls( coding! I had a great time and I learned alot. Thank you! It's really cool that I can actually sit down at a computer and take a plank page and turn it into a program!! Thank you!!
+  puts "Hey Grace! Thank you so much for giving your time to teach me (and the other girls) coding! I had a great time and I learned alot. Thank you! It's really cool that I can actually sit down at a computer and take a plank page and turn it into a program!! Thank you!!
   Isabel Ung".blue
   elsif user_answer == "Ivy"
     puts "Hey Ivy! Thank you so much for spending your time with me and the other girls! And of course for buying the snacks and teaching us games;) but thank you for the help you gave me and the things that you've taught me! I love coding and now I can code! Thank you!!
